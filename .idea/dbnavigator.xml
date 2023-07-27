@@ -23,9 +23,7 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="fdad0210-0286-449f-941c-ea888fe33151" object-ref="schemas/coursejdbc/tables/seller" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="fdad0210-0286-449f-941c-ea888fe33151" dataset="coursejdbc.seller" active-filter-id="EMPTY_FILTER" />
